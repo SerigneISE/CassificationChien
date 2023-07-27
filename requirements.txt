@@ -2,22 +2,3 @@ streamlit
 PIL
 tensorflow
 numpy
-os
-warnings
-pandas
-matplotlib.pyplot
-matplotlib.image
-seaborn
-timeit
-cv2
-sklearn.preprocessing
-sklearn.model_selection
-sklearn.metrics classification_report 
-keras.preprocessing
-keras.preprocessing.image
-tensorflow.keras.utils
-keras
-kerastuner
-keras.models
-tensorflow.keras.models
-gradio as gr
