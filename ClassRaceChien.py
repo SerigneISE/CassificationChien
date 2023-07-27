@@ -7,7 +7,7 @@ import numpy as np
 model = tf.keras.models.load_model('xception_trained_model.h5')
 
 # Liste des races de chiens prises en charge par le modèle
-races_chiens = ['Chihuahua', 'Labrador', 'Berger Allemand', 'Bulldog', 'Husky', 'Golden Retriever', 'Bouledogue Français', 'Beagle', 'Poodle', 'Autre']
+races_chiens = ['n02096294-Australian_terrier','n02093256-Staffordshire_bullterrier','n02099601-golden_retriever']
 
 # Fonction pour prédire la race de chien
 def predict_race(image):
